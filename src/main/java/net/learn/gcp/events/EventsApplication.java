@@ -1,4 +1,4 @@
-package net.learn.gcp.Events;
+package net.learn.gcp.events;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
